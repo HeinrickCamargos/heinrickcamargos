@@ -7,7 +7,7 @@ Tenho 20 anos e estou começando minha jornada de trabalho na área de Ti, busco
 ✨ Status Git
 <div>
   <a href="https://github.com/HeinrickCamargos">
-  <img heinght="180em" src="https://github-readme-stats.vercel.app/api?username=HeinrickCamargos&show_icons=true&theme=dracula"/>
+  <img heinght="180em" src="https://github-readme-stats.vercel.app/api?username=HeinrickCamargos&show_icons=true&angs_count=8&theme=dracula"/>
   <img heinght="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrickCamargos&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <br>
