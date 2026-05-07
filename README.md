@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,docker,html,css,mysql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea,pycharm&theme=dark" />
 </p>
 
 ##
